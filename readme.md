@@ -42,10 +42,3 @@ All you have to do is:
 * Fork the repository to your own profile, edit the code there.
 * When you are done with a feature open a pull request.
 
-If you have any questions contact us in our discord server.
-
-## Join us
-Wanna see how the bot works? Wanna say hello to us? Come join our official discord server by clicking bellow:
-[![Invitation link](https://discord.com/api/guilds/713785142597910549/widget.png?style=banner4)](https://discord.gg/K2Cf6ma)
-
-Waiting for your arrival!
